@@ -1,0 +1,6 @@
+configuracion_local.sh
+
+archivos_privados/
+
+*.xcf
+*.psd
